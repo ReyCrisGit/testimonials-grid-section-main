@@ -14,7 +14,6 @@ Esta es una solución al [desafío de la sección de testimonios en forma de cua
   - [Desarrollo continuo](#desarrollo-continuo)
   - [Recursos útiles](#recursos-útiles)
 - [Autor](#autor)
-- [Agradecimientos](#agradecimientos)
 
 ## Resumen
 
